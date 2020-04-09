@@ -5,14 +5,14 @@ I've played piano since I was little and still do today. I've also arranged a fe
 
 I do not claim credit for piece composition and will do my best to give credit for the people who made the sheet music or composed the piece. That said, if I didn't give you credit, please contact me and I will update with your information.
 
-**Contention / Zenith Theme** [PDF]() [MuseScore]()
-&emsp;_Soundtrack from the Final Fantasy 14: Heavensward expansion._
-&emsp;&emsp;Original Composer: Masayoshi Soken
-&emsp;&emsp;Arranged By: Me
-&emsp;&emsp;Instruments: Piano Solo
+**Contention / Zenith Theme** [PDF]() [MuseScore]() <br>
+&emsp;_Soundtrack from the Final Fantasy 14: Heavensward expansion._ <br>
+&emsp;&emsp;Original Composer: Masayoshi Soken<br>
+&emsp;&emsp;Arranged By: Me<br>
+&emsp;&emsp;Instruments: Piano Solo<br>
 
-**Little JIRA Boy** [PDF]() [MuseScore]() [YouTube]()
-&emsp;_Parody of Little Drummer Boy by Pentatonix._
-&emsp;&emsp;Original Composer: Pentatonix
-&emsp;&emsp;Arranged By: Me
-&emsp;&emsp;Instruments: 5 vocalists
+**Little JIRA Boy** [PDF]() [MuseScore]() [YouTube]()<br>
+&emsp;_Parody of Little Drummer Boy by Pentatonix._<br>
+&emsp;&emsp;Original Composer: Pentatonix<br>
+&emsp;&emsp;Arranged By: Me<br>
+&emsp;&emsp;Instruments: 5 vocalists<br>
