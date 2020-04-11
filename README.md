@@ -11,7 +11,7 @@ I do not claim credit for piece composition and will do my best to give credit f
  Instruments: Piano Solo
 
 **Little JIRA Boy** [PDF](https://github.com/HarmonicChange/music-arrangements/blob/master/Little%20JIRA%20Boy/Little%20JIRA%20Boy-Score_and_Parts.pdf) [MuseScore](https://github.com/HarmonicChange/music-arrangements/blob/master/Little%20JIRA%20Boy/Little%20JIRA%20Boy.mscz)<br>
-_Soundtrack from the Final Fantasy 14: Heavensward expansion._<br>
->Original Composer: Pentatonix<br>
-Arranged By: Me, with inspiration from [ArcadianChap's arrangement](https://musescore.com/user/511006/scores/4815075)<br>
+_Parody of Little Drummer Boy for software engineers._<br>
+>Original Composer: This version is based off Little Drummer Boy by Pentatonix.<br>
+Arranged By: Me, with inspiration from [ArcadianChap](https://musescore.com/user/511006/scores/4815075)<br>
 Instruments: 5 vocalists
