@@ -8,10 +8,16 @@ I do not claim credit for piece composition and will do my best to give credit f
  _Soundtrack from the Final Fantasy 14: Heavensward expansion._<br>
  >Original Composer: Masayoshi Soken<br>
  Arranged By: Me, with inspiration from [Purple Shade](https://musescore.com/user/13024696/scores/2782231) and [Soundnin](https://musescore.com/user/3242776/scores/2447386)<br>
- Instruments: Piano Solo
+ Instrument: Piano Solo
 
 **Little JIRA Boy** [PDF](https://github.com/HarmonicChange/music-arrangements/blob/master/Little%20JIRA%20Boy/Little%20JIRA%20Boy-Score_and_Parts.pdf) [MuseScore](https://github.com/HarmonicChange/music-arrangements/blob/master/Little%20JIRA%20Boy/Little%20JIRA%20Boy.mscz)<br>
 _Parody of Little Drummer Boy for software engineers._<br>
 >Original Composer: This version is based off Little Drummer Boy by Pentatonix.<br>
 Arranged By: Me, with inspiration from [ArcadianChap](https://musescore.com/user/511006/scores/4815075)<br>
 Instruments: 5 vocalists
+
+**You Exist In My Song 我的歌聲裡 (Work in progress)** [MuseScore]<br>
+_Popular song in Asia._<br>
+>Original Artist: Wanting Qu 曲婉婷<br>
+Arranged By: Me<br>
+Instrument: Piano Solo
