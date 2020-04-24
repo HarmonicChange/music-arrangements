@@ -16,7 +16,7 @@ _Parody of Little Drummer Boy for software engineers._<br>
 Arranged By: Me, with inspiration from [ArcadianChap](https://musescore.com/user/511006/scores/4815075)<br>
 Instruments: 5 vocalists
 
-**You Exist In My Song 我的歌聲裡 (Work in progress)** [MuseScore]<br>
+**You Exist In My Song 我的歌聲裡 (Work in progress)** [MuseScore](https://github.com/HarmonicChange/music-arrangements/blob/master/You%20Exist%20In%20My%20Song%20%E6%88%91%E7%9A%84%E6%AD%8C%E8%81%B2%E8%A3%A1/You%20Exist%20In%20My%20Song%20%E6%88%91%E7%9A%84%E6%AD%8C%E8%81%B2%E8%A3%A1.mscz)<br>
 _Popular song in Asia._<br>
 >Original Artist: Wanting Qu 曲婉婷<br>
 Arranged By: Me<br>
