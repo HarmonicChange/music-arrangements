@@ -21,3 +21,15 @@ _Popular song in Asia._<br>
 >Original Artist: Wanting Qu 曲婉婷<br>
 Arranged By: Me<br>
 Instrument: Piano Solo
+
+**Tavern Music** [MuseScore]<br>
+_Soundtrack from World of Warcraft._<br>
+>Original Artist: Jason Hayes<br>
+Arranged By: Me<br>
+Instruments: Violin, Guitar, Piano, Percussion Shaker
+
+**Ohayou** [MuseScore]<br>
+_Opening for HunterXHunter (1999)._<br>
+>Original Artist: Keno<br>
+Arranged By: Me<br>
+Instruments: Large ensemble. Watch [Cornell Eastern Music Ensemble's performance](https://www.youtube.com/watch?v=pdSglENcROU) of this piece.
