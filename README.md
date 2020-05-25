@@ -22,13 +22,13 @@ _Opening for HunterXHunter (1999)._<br>
 Arranged By: Me<br>
 Instruments: Large ensemble. Watch [Cornell Eastern Music Ensemble's performance](https://www.youtube.com/watch?v=pdSglENcROU) of this piece.
 
-**Tomorrow and Tomorrow Reprise** [MuseScore]() [PDF]()<br>
+**Tomorrow and Tomorrow Reprise** [MuseScore](tomorrow_and_tomorrow/Tomorrow-and-Tomorrow.mscz) [PDF](tomorrow_and_tomorrow/Tomorrow-and-Tomorrow.pdf)<br>
 _Soundtrack from the Final Fantasy 14: Shadowbringers expansion._<br>
 >Original Composer: Masayoshi Soken<br>
 Arranged by: Me, with inspiration from [amyhjm](https://musescore.com/user/33361184/scores/5818324)
 Instruments: Piano Solo
 
-**WoW Tavern Music** [MuseScore](wow_tavern_music/WoW-Tavern-Music.mscz)<br>
+**WoW Tavern Music** [MuseScore](wow_tavern_music/WoW-Tavern-Music.mscz) [PDF](wow_tavern_music/WoW-Tavern-Music.pdf)<br>
 _Soundtrack from World of Warcraft._<br>
 >Original Artist: Jason Hayes<br>
 Arranged By: Me<br>
