@@ -16,18 +16,6 @@ _Parody of Little Drummer Boy for software engineers._<br>
 Arranged By: Me, with inspiration from [ArcadianChap](https://musescore.com/user/511006/scores/4815075)<br>
 Instruments: 5 vocalists
 
-**You Exist In My Song 我的歌聲裡 (Work in progress)** [MuseScore](you_exist_in_my_song/You-Exist-In-My-Song.mscz)<br>
-_Popular song in Asia._<br>
->Original Artist: Wanting Qu 曲婉婷<br>
-Arranged By: Me<br>
-Instrument: Piano Solo
-
-**Tavern Music** [MuseScore](wow_tavern_music/WoW-Tavern-Music.mscz)<br>
-_Soundtrack from World of Warcraft._<br>
->Original Artist: Jason Hayes<br>
-Arranged By: Me<br>
-Instruments: Violin, Guitar, Piano, Percussion Shaker
-
 **Ohayou** [MuseScore](ohayou/Ohayou.mscz) [PDF](ohayou/Ohayou.pdf)<br>
 _Opening for HunterXHunter (1999)._<br>
 >Original Artist: Keno<br>
@@ -39,3 +27,15 @@ _Soundtrack from the Final Fantasy 14: Shadowbringers expansion._<br>
 >Original Composer: Masayoshi Soken<br>
 Arranged by: Me, with inspiration from [amyhjm](https://musescore.com/user/33361184/scores/5818324)
 Instruments: Piano Solo
+
+**WoW Tavern Music** [MuseScore](wow_tavern_music/WoW-Tavern-Music.mscz)<br>
+_Soundtrack from World of Warcraft._<br>
+>Original Artist: Jason Hayes<br>
+Arranged By: Me<br>
+Instruments: Violin, Guitar, Piano, Percussion Shaker
+
+**You Exist In My Song 我的歌聲裡 (Work in progress)** [MuseScore](you_exist_in_my_song/You-Exist-In-My-Song.mscz)<br>
+_Popular song in Asia._<br>
+>Original Artist: Wanting Qu 曲婉婷<br>
+Arranged By: Me<br>
+Instrument: Piano Solo
